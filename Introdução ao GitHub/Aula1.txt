@@ -1,1 +1,25 @@
 Exemplo de arquivo de anotação
+
+$ git Clone (url Do projeto no github)
+
+Clona um projeto
+
+$ git status 
+
+Retorna o status de um projeto
+
+$ git add .
+
+Adiciona as alterações conforme os parametros ao backstage
+
+$ git config --global user.mail "you@example.com"
+
+Realiza login com as suas credenciais caso não esteja logado ainda
+
+$ git commit -m "suas anotações sobre o commit"
+
+Define as alterações que serão realizadas e marca uma anotação para elas
+
+$ git push
+
+Efetua a alterações do último commit
